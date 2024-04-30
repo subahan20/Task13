@@ -1,0 +1,17 @@
+*{
+    background-color: gray;
+}
+form{
+    background-color: blue;
+    text-align: center;
+}
+fieldset{
+    background-color: red;
+}
+label{
+    color: white;
+    background-color: red;
+}
+input{
+    background-color: red;
+}
